@@ -1,0 +1,9 @@
+int x;
+int hello(int) {
+int x = 10;
+}
+int a, b, c, d = 9;
+int print(int num);
+int print(int num) {
+}
+int print(int num)

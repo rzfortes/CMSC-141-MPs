@@ -1,0 +1,5 @@
+int function();
+int function(int);
+int function(int ____num);
+int function(int, int, int);
+int function(int x, int y, int z);

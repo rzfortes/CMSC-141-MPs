@@ -1,0 +1,7 @@
+{1,5,7,8}
+{10,-2,4,5}
+false
+{hello,wxyz}
+{world,abcd,lmno}
+{}
+{{},{world},{abcd},{world,abcd},{lmno},{world,lmno},{abcd,lmno},{world,abcd,lmno}}
